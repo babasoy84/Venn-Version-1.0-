@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Venn.Client",
+    "\\Venn.Client\\Net",
+    "\\Venn.Models",
+    "\\Venn.Models\\Models",
+    "\\Venn.Models\\Models\\Concretes",
+    "\\Venn.Server"
+  ],
+  "SelectedNode": "\\Venn.sln",
+  "PreviewInSolutionExplorer": false
+}
